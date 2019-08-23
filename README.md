@@ -6,12 +6,11 @@ http://webi.epizy.com/
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-blueviolet.svg)](#)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Generic badge](https://img.shields.io/badge/Stable-YES-<COLOR>.svg)](#)
+[![Generic badge](https://img.shields.io/badge/Code-PHP-blue)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](#)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](#)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](#)
 
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](#)
