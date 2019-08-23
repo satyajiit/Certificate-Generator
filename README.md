@@ -29,9 +29,9 @@ http://webi.epizy.com/
 * In the Demo Link don't generate high number of Certificates it will *fuck* my free hosted page with high CPU usage.
 * Scripts are not optimised 🥱
 * Very easy to understand 
-* Add Validations yourself ( I am lazy )
+* Add Validations yourself ( I am lazy ) 😅
 * It can generate the certificates from the names separeted with comma
-* Easy to add more texts
+* Easy to add more texts ❤
 * Used imagettftext and imagecreatefrompng methods of PHP
 
 * In order to center a text you do something like (Center with X-axis) :
@@ -40,7 +40,7 @@ http://webi.epizy.com/
 $imageX = imagesx($image); //retrieve the image’s width
 $textWidth = imagettfbbox($fontSize, 0,$font, $text_to_enter); //we get the edges of the text
 $textWidth = $textWidth[0] + $textWidth[2]; //add the left edge to the right edge to get the text’s width
-imagettftext($image, $fontSize, 0, ($imageX-$textWidth)/2, 575, $black, $font, $recognition); //Wrtie with the X position
+imagettftext($image, $fontSize, 0, ($imageX-$textWidth)/2, 575, $black, $font, $text_to_enter); //Wrtie with the X position
 ```
 
 
