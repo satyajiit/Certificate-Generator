@@ -1,0 +1,58 @@
+
+body{
+	width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin: auto;
+  font-family: 'Josefin Sans';
+}
+
+.top{
+	
+	background-color: #01579B;
+	text-align: center;
+	position: center;
+	padding-top: 30px;
+	height: 40px;
+	color: white;
+	
+}
+
+
+.btn{
+	
+	background-color: #01579B;
+	color: white;
+	font-size: 18px;
+	border: none;
+text-align: center;
+	margin-top: 10px;
+	padding-top: 5px;
+	font-family: inherit;
+	cursor: hand;
+	
+}
+
+
+
+.sss{
+	
+	background-color: #388E3C;
+	color: white;
+	font-size: 18px;
+	border: none;
+	margin-top: 10px;
+	text-align: center;
+	padding-top: 5px;
+	font-family: inherit;
+	cursor: hand;
+	
+}
+
+.iii{
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	cursor: hand;
+}
+
+
