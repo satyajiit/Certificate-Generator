@@ -67,7 +67,7 @@ echo "</body>
 <br>
 <br>
 
-<div style='color: #01579B; font-size: 15px;'><small>Designed with <font color='red'>❤</font> by <a href='https://linkedin.com/in/satyajiit/'>SatyaJit Pradhan</a></small></div>
+<div class='top2'><small>Designed with <font color='red'>❤</font> by <a href='https://linkedin.com/in/satyajiit/' target='_blank'><font color='white'>SatyaJit Pradhan</font></a></small></div>
 
 
 </html>";
