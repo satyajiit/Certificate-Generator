@@ -1,7 +1,7 @@
 # Certificate Generator
-Generate X number of Certificates with One Click &nbsp;
-Helps in generating certificates like Certification of Completion , Participation etc..&nbsp;
-Demo Link (May go offline or get suspended anytime 😅 ): &nbsp;
+Generate X number of Certificates with One Click <br/>
+Helps in generating certificates like Certification of Completion , Participation etc..<br/>
+Demo Link (May go offline or get suspended anytime 😅 ) - <br/>
 http://webi.epizy.com/ 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-blueviolet.svg)](#)
