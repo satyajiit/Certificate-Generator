@@ -22,7 +22,8 @@ http://webi.epizy.com/
 
 ## Screens
 
-<img src="/Screenshots/ss1.png" height="583" width="350" />&nbsp;
+<img src="/Screenshots/ss1.png" />&nbsp;
+<img src="/Screenshots/ss2.png" />&nbsp;
 
 ### Some Points to Wrap up
 
