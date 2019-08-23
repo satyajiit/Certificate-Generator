@@ -33,7 +33,8 @@ if($i%2==0) echo "</tr><tr>";
 $i++;
 
 }
-echo "</tr></table><center>"
+echo "</tr></table></center><br><br><br><div class='top2'><small>Designed with <font color='red'>❤</font> by <a href='https://linkedin.com/in/satyajiit/' target='_blank'><font color='white'>SatyaJit Pradhan</font></a></small></div>
+</body></html>"
 
 
 
