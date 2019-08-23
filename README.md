@@ -1,5 +1,6 @@
-# Certificate-Generator
+# Certificate Generator
 Generate X number of Certificates with One Click &nbsp;
+Helps in generating certificates like Certification of Completion , Participation etc..&nbsp;
 Demo Link (May go offline or get suspended anytime 😅 ): &nbsp;
 http://webi.epizy.com/ 
 
@@ -19,12 +20,8 @@ http://webi.epizy.com/
 
 * One Click Certificates Generator 
 
-## Screens
 
-<img src="/Screenshots/ss1.png" />&nbsp;
-<img src="/Screenshots/ss2.png" />&nbsp;
-
-### Some Points to Wrap up
+## Some Points to Wrap up
 
 * In the Demo Link don't generate high number of Certificates it will *fuck* my free hosted page with high CPU usage.
 * Scripts are not optimised 🥱
@@ -42,6 +39,9 @@ $textWidth = imagettfbbox($fontSize, 0,$font, $text_to_enter); //we get the edge
 $textWidth = $textWidth[0] + $textWidth[2]; //add the left edge to the right edge to get the text’s width
 imagettftext($image, $fontSize, 0, ($imageX-$textWidth)/2, 575, $black, $font, $text_to_enter); //Wrtie with the X position
 ```
+### Screens
 
+<img src="/Screenshots/ss1.png" />&nbsp;
+<img src="/Screenshots/ss2.png" />&nbsp;
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://linkedin.com/in/satyajiit/)
